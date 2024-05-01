@@ -10,6 +10,7 @@ An in-depth paragraph about your project and overview of use.
 
 ## Accessing files 
 For speech to text audio files go to the following - [Web Scraping]() 
+For E-Commerce - [Project3A23/Web Scraping/E-Commerce/]() 
 
 ### Dependencies
 
