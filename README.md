@@ -1,10 +1,11 @@
 # Project3A23
 
-Simple overview of use/purpose.
+Simple overview of use/purpose. example - this README file has been created to make it easier to use this repository. You will find information here about the structure and what files to use to create the final product 
 
 ## Description
 
 An in-depth paragraph about your project and overview of use.
+example - explain the aim of the project- sentimental analysis for our topics. Then do step by step explaining what we did to do the sentimental analysis from webscraping to speech to text to creating and evaluating models to picking the most accurate one and getting the results. 
 
 ## Getting Started
 
