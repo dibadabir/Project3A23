@@ -11,7 +11,7 @@ example - explain the aim of the project- sentimental analysis for our topics. T
 
 ## Accessing files 
 For speech to text audio files go to the following - [Web Scraping]() 
-For E-Commerce - [Project3A23/Web Scraping/E-Commerce/]() 
+For E-Commerce - [[Project3A23/Web Scraping/E-Commerce/](https://github.com/dibadabir/Project3A23/tree/main/Web%20Scraping/E-Commerce)]() 
 
 ### Dependencies
 
