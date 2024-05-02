@@ -1,11 +1,10 @@
 # Project3A23
 
-Simple overview of use/purpose. example - this README file has been created to make it easier to use this repository. You will find information here about the structure and what files to use to create the final product 
+The purpose of this project is to successfully develop a sentiment analysis system to analyse public opinions toward artificial inteligence (AI) from various resources such as websites, podcasts, videos, etc. The goal is to understand general sentiment (positive, negative, or neutral) towards AI-realted topics. This README file has been created to make it easier to use this repository. You will find information here about the structure and what files to use to create the final product.
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
-example - explain the aim of the project- sentimental analysis for our topics. Then do step by step explaining what we did to do the sentimental analysis from webscraping to speech to text to creating and evaluating models to picking the most accurate one and getting the results. 
+Throughout this project, we followed steps of the machine learning pipeline. 
 
 ## Getting Started
 
