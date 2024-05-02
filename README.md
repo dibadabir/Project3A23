@@ -2,7 +2,11 @@
 
 The purpose of this project is to successfully develop a sentiment analysis system to analyse public opinions toward artificial inteligence (AI) from various resources such as websites, podcasts, videos, etc. The goal is to understand general sentiment (positive, negative, or neutral) towards AI-realted topics. This README file has been created to make it easier to use this repository. You will find information here about the structure and what files to use to create the final product.
 
-## Description
+## Team members
+
+* Justyna Dobersztajn
+* Diba Dabiransari
+* Aleeza Azad
 
 Throughout this project, we followed steps of the machine learning pipeline. 
 
