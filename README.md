@@ -20,7 +20,6 @@ For this assignment we used the Cross Industry Standard Process for Data Mining 
 ## 1. What does the business need?
 As mentioned earlier, the aim of this project is to analyse public opinion and gain a better understanding of their thoughts about AI. We identified categories in which AI is utilised and did some in-depth research about them.
 Moreover, this project is supposed to be a good practice for us to improve our skills, both technical and communicative skills. We were able to explore and develop a machine learning model whilst being exposed to diffrent platforms suh as google colab and pycharm.
-We 
 
 ## 2. What data do we need?
 For this analysis, we chose six categories representing sectors impacted by artificial intelligence:
@@ -33,8 +32,9 @@ For this analysis, we chose six categories representing sectors impacted by arti
   
 Our aim was to gather data that both describes and critiques the utilisation of artificial systems within these domains.
 
-## 3. Preparing and Cleaning the Data
-The data that we scraped from websites and audios were raw data and we were not able to use it just on its own. We had to process the textual data in a way that would be understandable for the machine. 
+## 3. Cleaning, Processing, and labeling
+The data that we scraped from websites and audios were raw data and we were not able to use it just on its own. We had to process the textual data in a way that would be understandable for the machine. We first cleaned the collected data, the punctuation marks, special characters and stop words were removed. Instead of completely deleting numeric numbers, we replaced them with their written forms. After that, split paragraphs into sentences so that the machine can process them better.
+Next step was to label our data.
 
 ## Accessing files 
 For speech to text audio files go to the following - [Web Scraping]() 
