@@ -33,10 +33,15 @@ For this analysis, we chose six categories representing sectors impacted by arti
 Our aim was to gather data that both describes and critiques the utilisation of artificial systems within these domains.
 
 ## 3. Cleaning, Processing, and labeling
-The data that we scraped from websites and audios were raw data and we were not able to use it just on its own. We had to process the textual data in a way that would be understandable for the machine. We first cleaned the collected data, the punctuation marks, special characters and stop words were removed. Instead of completely deleting numeric numbers, we replaced them with their written forms. After that, split paragraphs into sentences so that the machine can process them better.
+After doing some research and choosing our subject, we started looking for websites and scraping the text out of them. We used BeautifulSoup to extract text from websites and Deepgram to transcribe podcasts.
 
-The next step was to label our data. We used to diffrent libraries to tag our data with Positive, Negative, or Neutral.
+The data that were scraped from websites and audios, were raw data and we were not able to use it just on its own. We had to process the textual data in a way that would be understandable for the machine. We first cleaned the collected data, the punctuation marks, special characters and stop words were removed. Instead of completely deleting numeric numbers, we replaced them with their written forms. After that, split paragraphs into sentences so that the machine can process them better.
 
+The next step was to label our data. We used to diffrent libraries to tag our data with Positive, Negative, or Neutral. The libraries used were TextBlob and Vader, both widely recognized in the field of Natural Language Processing (NLP). We used them to compute the polarity of the sentences and then label them based on that criteria.
+
+Example of web scraping implementation - Education
+Using TextBlob
+* [Web-Scraping Code File](Web Scraping/Education/Education_webscrape_code file without numbers in the dataset.ipynb)
 ## Accessing files 
 For speech to text audio files go to the following - [Web Scraping]() 
 For E-Commerce - [WS-EC](https://github.com/dibadabir/Project3A23/tree/main/Web%20Scraping/E-Commerce) 
