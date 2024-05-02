@@ -71,12 +71,30 @@ Following the machine learning pipeline, the next phase would be choosing an app
 import re
 import numpy as pd
 import pandas as pd
+import matplotlib.pyplot as plt
 import requests
 import nltk
+import os
+import httpx
+import json
+import pickle
+import logging, verboselogs
 from bs4 import BeautifulSoup as bs
 from num2words import num2words
-from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 from textblob import TextBlob
+from dotenv import load_dotenv
+from datetime import datetime
+from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
+from deepgram import ( DeepgramClient, DeepgramClientOptions, PrerecordedOptions, FileSource)
+from sklearn.preprocessing import LabelEncoder
+from sklearn.model_selection import train_test_split
+from sklearn.metrics import classification_report, accuracy_score
+from sklearn.feature_extraction.text import CountVectorizer
+from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.ensemble import RandomForestClassifier
+from sklearn.linear_model import LogisticRegression
+from sklearn.naive_bayes import MultinomialNB
+from sklearn.tree import DecisionTreeClassifier
 ```
 
 ## Version History
