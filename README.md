@@ -52,8 +52,9 @@ The next step was to label our data. We used to diffrent libraries to tag our da
 ## 3. Choosing the best model
 Following the machine learning pipeline, the next phase would be choosing an appropriate model for sentiment analysis. We explored a variety of supervised learning algorithms such as Naive Bayes, Logistic Regression, Random Forest, and Decision Tree using two vectorizing methods, CountVectorizer and TF-IDF Vectorizer and then we compared the accuracy of these models and how diffrnt each model performs. We then demonstrated the results to gain a better understanding of them and make a better decision.
 
-[### Training Models using CountVectorizer](https://github.com/dibadabir/Project3A23/blob/main/Final%20(Everything%20combined!)/Compare_Models_(CountVectorizer).ipynb)
-[### Training Models using TF-IDF Vectorizer](https://github.com/dibadabir/Project3A23/blob/main/Final%20(Everything%20combined!)/Compare_Models_(TF_IDFVectorizer).ipynb)
+[Training Models using CountVectorizer](https://github.com/dibadabir/Project3A23/blob/main/Final%20(Everything%20combined!)/Compare_Models_(CountVectorizer).ipynb)
+
+[Training Models using TF-IDF Vectorizer](https://github.com/dibadabir/Project3A23/blob/main/Final%20(Everything%20combined!)/Compare_Models_(TF_IDFVectorizer).ipynb)
 
 
 
