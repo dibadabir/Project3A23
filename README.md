@@ -23,9 +23,14 @@ Moreover, this project is supposed to be a good practice for us to improve our s
 We 
 
 ## 2. What data do we need?
-As mentioned earlier, the aim of this project is to analyse public opinion and gain a better understanding of their thoughts about AI. We identified categories in which AI is utilised and did some in-depth research about them.
-Moreover, this project is supposed to be a good practice for us to improve our skills, both technical and communicative skills. We were able to explore and develop a machine learning model whilst being exposed to diffrent platforms suh as google colab and pycharm.
-We 
+For this analysis, we chose six categories representing sectors impacted by artificial intelligence:
+* AI in Healthcare
+* AI in Travel Industry
+* AI in Fashion
+* AI in E-Commerce / Marketing
+* AI in Education
+* Generative AI
+Our aim was to gather data that both describes and critiques the utilisation of artificial systems within these domains.
 
 ## Accessing files 
 For speech to text audio files go to the following - [Web Scraping]() 
