@@ -48,6 +48,7 @@ Using TextBlob
 Using Vader
 * [Web_Scraping Code File](https://github.com/dibadabir/Project3A23/blob/main/Web%20Scraping/Education/Education_webscrape_(without_numbers)_Vader_ver_.ipynb)
 * [Scraped Results](https://github.com/dibadabir/Project3A23/blob/main/Web%20Scraping/Education/Education%20dataset%20(no%20numbers)%20-%20Vader%20ver.csv)
+
 ## Accessing files 
 For speech to text audio files go to the following - [Web Scraping]() 
 For E-Commerce - [WS-EC](https://github.com/dibadabir/Project3A23/tree/main/Web%20Scraping/E-Commerce) 
