@@ -30,6 +30,7 @@ For this analysis, we chose six categories representing sectors impacted by arti
 * AI in E-Commerce / Marketing
 * AI in Education
 * Generative AI
+* 
 Our aim was to gather data that both describes and critiques the utilisation of artificial systems within these domains.
 
 ## Accessing files 
