@@ -12,10 +12,11 @@ The purpose of this project is to successfully develop a sentiment analysis syst
 For this assignment we used the Cross Industry Standard Process for Data Mining (CRISP DM) to move on with our project. There are various steps to this model which are:
 * Business Understanding
 * Data Understanding
-* Data Preparation                                                                                                     ![CRISP-DM](https://analyticsindiamag.com/wp-content/uploads/2019/06/12NajmK58hJf8lJQm25iXWw.png)
+* Data Preparation                                                                                                     
 * Modelling
 * Evaluation
 * Deployment
+                                                                            ![CRISP-DM](https://analyticsindiamag.com/wp-content/uploads/2019/06/12NajmK58hJf8lJQm25iXWw.png)
 
 ## 1. What does the business need?
 As mentioned earlier, the aim of this project is to analyse public opinion and gain a better understanding of their thoughts about AI. We identified categories in which AI is utilised and did some in-depth research about them.
