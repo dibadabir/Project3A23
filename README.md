@@ -18,7 +18,7 @@ For this assignment we used the Cross Industry Standard Process for Data Mining 
 * Deployment
 
 ## 1. What does the business need?
-As mentioned earlier, 
+As mentioned earlier, the aim of this project is to analyse public opinion and gain a better understanding of their thoughts about AI.  Moreover, can be a good practice for us to improve our skills, 
 
 ## Accessing files 
 For speech to text audio files go to the following - [Web Scraping]() 
