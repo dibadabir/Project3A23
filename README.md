@@ -41,7 +41,7 @@ The next step was to label our data. We used to diffrent libraries to tag our da
 
 Example of web scraping implementation - Education
 Using TextBlob
-* [Web-Scraping Code File](Web Scraping/Education/Education_webscrape_code file without numbers in the dataset.ipynb)
+* [Web-Scraping Code File](https://github.com/dibadabir/Project3A23/blob/main/Web%20Scraping/Education/Education_webscrape_code%20file%20without%20numbers%20in%20the%20dataset.ipynb)
 ## Accessing files 
 For speech to text audio files go to the following - [Web Scraping]() 
 For E-Commerce - [WS-EC](https://github.com/dibadabir/Project3A23/tree/main/Web%20Scraping/E-Commerce) 
