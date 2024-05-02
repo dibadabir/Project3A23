@@ -41,7 +41,48 @@ The data that were scraped from websites and audios, were raw data and we were n
 
 The next step was to label our data. We used to diffrent libraries to tag our data with Positive, Negative, or Neutral. The libraries used were TextBlob and Vader, both widely recognized in the field of Natural Language Processing (NLP). We used them to compute the polarity of the sentences and then label them based on that criteria.
 
-![image](https://github.com/dibadabir/Project3A23/assets/152966994/ce0193fe-5f1e-458c-8027-996e8601ded5)
+```
+def scrape_clean (url, div_class,id_name=None):
+  # Load the website
+  website = requests.get(url).text
+  soup = bs(website,'html.parser')
+
+  # Find the div section that is the parent of all paragraphs
+  div = soup.find_all('div', attrs={'class':div_class, 'id':id_name})
+
+  # Get the text from paragraphs
+  extracted_text = []
+  for div in div:
+      paragraphs = div.find_all('p')
+      for paragraph in paragraphs:
+          extracted_text.append(paragraph.get_text(strip=True))  # Remove leading/trailing whitespace
+
+  # Splitting the text into sentences, remove the stopwords and punctuations, and save the cleaned version in a list
+  sentences = []
+  for text in extracted_text:
+    sentence = sent_tokenize(text)
+    for item in sentence:
+      # Convert to lowercase
+      text_lowercase = item.lower()
+      # Remove punctuation
+      text_without_punctuation = re.sub(r"[^\w\s]", "", text_lowercase)
+      # Remove stopwords and stem words
+      tokens = word_tokenize(text_without_punctuation)
+      new_tokens = []
+      for word in tokens:
+        if word.isnumeric():
+          word = num2words(word)
+          new_tokens.append(lemmatizer.lemmatize(word))
+          continue
+        elif word not in stop_words:
+          new_tokens.append(lemmatizer.lemmatize(word))
+          continue
+      # Join tokens back into a string
+      cleaned_text = " ".join(new_tokens)
+      sentences.append(cleaned_text)
+
+  return sentences
+```
 
 ### Example of **web scraping** implementation - Education
 
