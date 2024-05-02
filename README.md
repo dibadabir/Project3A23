@@ -41,6 +41,8 @@ The data that were scraped from websites and audios, were raw data and we were n
 
 The next step was to label our data. We used to diffrent libraries to tag our data with Positive, Negative, or Neutral. The libraries used were TextBlob and Vader, both widely recognized in the field of Natural Language Processing (NLP). We used them to compute the polarity of the sentences and then label them based on that criteria.
 
+![image](https://github.com/dibadabir/Project3A23/assets/152966994/ce0193fe-5f1e-458c-8027-996e8601ded5)
+
 ### Example of **web scraping** implementation - Education
 
 #### Using TextBlob
