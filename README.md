@@ -17,7 +17,7 @@ For this assignment we used the Cross Industry Standard Process for Data Mining 
 * Evaluation
 * Deployment
 
-                                  ![CRISP-DM](https://github.com/dibadabir/Project3A23/assets/152966994/3ceeae0c-6898-4fb1-892b-ce43fb3af03b)
+![CRISP-DM](https://github.com/dibadabir/Project3A23/assets/152966994/3ceeae0c-6898-4fb1-892b-ce43fb3af03b)
 
 ## 1. What does the business need?
 As mentioned earlier, the aim of this project is to analyse public opinion and gain a better understanding of their thoughts about AI. We identified categories in which AI is utilised and did some in-depth research about them.
