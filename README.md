@@ -39,7 +39,7 @@ The data that were scraped from websites and audios, were raw data and we were n
 
 The next step was to label our data. We used to diffrent libraries to tag our data with Positive, Negative, or Neutral. The libraries used were TextBlob and Vader, both widely recognized in the field of Natural Language Processing (NLP). We used them to compute the polarity of the sentences and then label them based on that criteria.
 
-### Example of web scraping implementation - Education
+### Example of **web scraping** implementation - Education
 
 #### Using TextBlob
 * [Web-Scraping Code File](https://github.com/dibadabir/Project3A23/blob/main/Web%20Scraping/Education/Education_webscrape_code%20file%20without%20numbers%20in%20the%20dataset.ipynb)
@@ -49,7 +49,7 @@ The next step was to label our data. We used to diffrent libraries to tag our da
 * [Web-Scraping Code File](https://github.com/dibadabir/Project3A23/blob/main/Web%20Scraping/Education/Education_webscrape_(without_numbers)_Vader_ver_.ipynb)
 * [Scraped Results](https://github.com/dibadabir/Project3A23/blob/main/Web%20Scraping/Education/Education%20dataset%20(no%20numbers)%20-%20Vader%20ver.csv)
 
-### Example of audio scraping implementation - Education
+### Example of **audio scraping** implementation - Education
 * [Audio-Scraping Code File](https://github.com/dibadabir/Project3A23/blob/main/Speech%20to%20Text/Education/Audio_Scraping_Using_DEEPGRAM(Education).ipynb)
 * [Scraped Results](https://github.com/dibadabir/Project3A23/blob/main/Speech%20to%20Text/Fashion/Audio_Scraping_Using_DEEPGRAM(Fashion).ipynb)
 
