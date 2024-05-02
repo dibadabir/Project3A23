@@ -34,7 +34,8 @@ Our aim was to gather data that both describes and critiques the utilisation of 
 
 ## 3. Cleaning, Processing, and labeling
 The data that we scraped from websites and audios were raw data and we were not able to use it just on its own. We had to process the textual data in a way that would be understandable for the machine. We first cleaned the collected data, the punctuation marks, special characters and stop words were removed. Instead of completely deleting numeric numbers, we replaced them with their written forms. After that, split paragraphs into sentences so that the machine can process them better.
-Next step was to label our data.
+
+The next step was to label our data. We used to diffrent libraries to tag our data with Positive, Negative, or Neutral.
 
 ## Accessing files 
 For speech to text audio files go to the following - [Web Scraping]() 
