@@ -9,9 +9,16 @@ The purpose of this project is to successfully develop a sentiment analysis syst
 * Aleeza Azad
 
 ## Development Methodology
+For this assignment we used the Cross Industry Standard Process for Data Mining (CRISP DM) to move on with our project. There are various steps to this model which are:
+* Business Understanding
+* Data Understanding
+* Data Preparation
+* Modelling
+* Evaluation
+* Deployment
 
-
-
+## 1. What does the business need?
+As mentioned earlier, 
 
 ## Accessing files 
 For speech to text audio files go to the following - [Web Scraping]() 
@@ -22,11 +29,6 @@ For E-Commerce - [WS-EC](https://github.com/dibadabir/Project3A23/tree/main/Web%
 * Describe any prerequisites, libraries, OS version, etc., needed before installing program.
 * ex. Windows 10
 
-### Installing
-
-* How/where to download your program
-* Any modifications needed to be made to files/folders
-
 ### Executing program
 
 * How to run the program
@@ -35,20 +37,6 @@ For E-Commerce - [WS-EC](https://github.com/dibadabir/Project3A23/tree/main/Web%
 code blocks for commands
 ```
 
-## Help
-
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
-
-## Authors
-
-Contributors names and contact info
-
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
-
 ## Version History
 
 * 0.2
@@ -56,10 +44,6 @@ ex. [@DomPizzie](https://twitter.com/dompizzie)
     * See [commit change]() or See [release history]()
 * 0.1
     * Initial Release
-
-## License
-
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
 
 ## Acknowledgments
 
