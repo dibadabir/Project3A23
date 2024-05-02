@@ -33,6 +33,9 @@ For this analysis, we chose six categories representing sectors impacted by arti
   
 Our aim was to gather data that both describes and critiques the utilisation of artificial systems within these domains.
 
+## 3. Preparing and Cleaning the Data
+The data that we scraped from websites and audios were raw data and we were not able to use it just on its own. We had to process the textual data in a way that would be understandable for the machine. 
+
 ## Accessing files 
 For speech to text audio files go to the following - [Web Scraping]() 
 For E-Commerce - [WS-EC](https://github.com/dibadabir/Project3A23/tree/main/Web%20Scraping/E-Commerce) 
