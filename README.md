@@ -12,7 +12,7 @@ The purpose of this project is to successfully develop a sentiment analysis syst
 For this assignment we used the Cross Industry Standard Process for Data Mining (CRISP DM) to move on with our project. There are various steps to this model which are:
 * Business Understanding
 * Data Understanding
-* Data Preparation
+* Data Preparation                                                                                                     (https://analyticsindiamag.com/wp-content/uploads/2019/06/12NajmK58hJf8lJQm25iXWw.png)
 * Modelling
 * Evaluation
 * Deployment
@@ -60,10 +60,8 @@ Following the machine learning pipeline, the next phase would be choosing an app
 
 [Training Models using TF-IDF Vectorizer](https://github.com/dibadabir/Project3A23/blob/main/Final%20(Everything%20combined!)/Compare_Models_(TF_IDFVectorizer).ipynb)
 
-### Dependencies
+## 5. Evaluating Models
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
 
 ### Libraries used in this project
 
