@@ -49,6 +49,10 @@ The next step was to label our data. We used to diffrent libraries to tag our da
 * [Web-Scraping Code File](https://github.com/dibadabir/Project3A23/blob/main/Web%20Scraping/Education/Education_webscrape_(without_numbers)_Vader_ver_.ipynb)
 * [Scraped Results](https://github.com/dibadabir/Project3A23/blob/main/Web%20Scraping/Education/Education%20dataset%20(no%20numbers)%20-%20Vader%20ver.csv)
 
+### Example of audio scraping implementation - Education
+* [Audio-Scraping Code File](https://github.com/dibadabir/Project3A23/blob/main/Speech%20to%20Text/Education/Audio_Scraping_Using_DEEPGRAM(Education).ipynb)
+* [Scraped Results](https://github.com/dibadabir/Project3A23/blob/main/Speech%20to%20Text/Fashion/Audio_Scraping_Using_DEEPGRAM(Fashion).ipynb)
+
 ## 4. Choosing the best model
 Following the machine learning pipeline, the next phase would be choosing an appropriate model for sentiment analysis. We explored a variety of supervised learning algorithms such as **Naive Bayes**, **Logistic Regression**, **Random Forest**, and **Decision Tree** using two vectorizing methods, CountVectorizer and TF-IDF Vectorizer and then we compared the accuracy of these models and how diffrnt each model performs. We then demonstrated the results to gain a better understanding of them and make a better decision.
 
@@ -56,23 +60,23 @@ Following the machine learning pipeline, the next phase would be choosing an app
 
 [Training Models using TF-IDF Vectorizer](https://github.com/dibadabir/Project3A23/blob/main/Final%20(Everything%20combined!)/Compare_Models_(TF_IDFVectorizer).ipynb)
 
-
-
-## Accessing files 
-For speech to text audio files go to the following - [Web Scraping]() 
-For E-Commerce - [WS-EC](https://github.com/dibadabir/Project3A23/tree/main/Web%20Scraping/E-Commerce) 
-
 ### Dependencies
 
 * Describe any prerequisites, libraries, OS version, etc., needed before installing program.
 * ex. Windows 10
 
-### Executing program
+### Libraries used in this project
 
-* How to run the program
-* Step-by-step bullets
 ```
-code blocks for commands
+import re
+import numpy as pd
+import pandas as pd
+import requests
+import nltk
+from bs4 import BeautifulSoup as bs
+from num2words import num2words
+from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
+from textblob import TextBlob
 ```
 
 ## Version History
