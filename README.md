@@ -63,7 +63,8 @@ Following the machine learning pipeline, the next phase would be choosing an app
 [Training Models using TF-IDF Vectorizer](https://github.com/dibadabir/Project3A23/blob/main/Final%20(Everything%20combined!)/Compare_Models_(TF_IDFVectorizer).ipynb)
 
 ## 5. Evaluating Models
-We then assess the performance of the trained sentiment analysis models using appropriate matrices such as F1-Score, Recall, Precision, and Accuracy to understand our model 
+We then assess the performance of the trained sentiment analysis models using appropriate matrices such as F1-Score, Recall, Precision, and Accuracy to understand our model and how it performs. Then we used matplotlib to visualise the classification report and choose the best model to use.
+![image](https://github.com/dibadabir/Project3A23/assets/152966994/8ec4f527-3106-45b6-bed0-7b357245032d)
 
 ### Libraries used in this project
 
