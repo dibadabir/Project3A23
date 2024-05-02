@@ -22,6 +22,11 @@ As mentioned earlier, the aim of this project is to analyse public opinion and g
 Moreover, this project is supposed to be a good practice for us to improve our skills, both technical and communicative skills. We were able to explore and develop a machine learning model whilst being exposed to diffrent platforms suh as google colab and pycharm.
 We 
 
+## 2. What data do we need?
+As mentioned earlier, the aim of this project is to analyse public opinion and gain a better understanding of their thoughts about AI. We identified categories in which AI is utilised and did some in-depth research about them.
+Moreover, this project is supposed to be a good practice for us to improve our skills, both technical and communicative skills. We were able to explore and develop a machine learning model whilst being exposed to diffrent platforms suh as google colab and pycharm.
+We 
+
 ## Accessing files 
 For speech to text audio files go to the following - [Web Scraping]() 
 For E-Commerce - [WS-EC](https://github.com/dibadabir/Project3A23/tree/main/Web%20Scraping/E-Commerce) 
