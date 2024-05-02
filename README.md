@@ -8,9 +8,10 @@ The purpose of this project is to successfully develop a sentiment analysis syst
 * Diba Dabiransari
 * Aleeza Azad
 
-Throughout this project, we followed steps of the machine learning pipeline. 
+## Development Methodology
 
-## Getting Started
+
+
 
 ## Accessing files 
 For speech to text audio files go to the following - [Web Scraping]() 
