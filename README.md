@@ -116,6 +116,14 @@ we used our chosen classifier to train our model and perform the sentiment analy
 
 ![image](https://github.com/dibadabir/Project3A23/assets/152966994/6098fec9-a821-4a14-b94c-a8289767e2d5)
 
+## 7. Product Compatibility
+
+We made sure that our code files and models are compatible and can run smoothly on other platforms such as PyCharm, ensuring seamless integration and ease of use for developers across different environments.
+
+![image-b62dff59-eb99-4d61-85ab-dd7d9233a375](https://github.com/dibadabir/Project3A23/assets/152966994/76e2937c-3a1c-45b0-bcc2-ede259c62392)
+
+
+
 ### Libraries used in this project
 
 ```
